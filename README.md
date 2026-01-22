@@ -17,8 +17,7 @@ Instrucciones de ejecucion:
 
 -Debera de re-crear el archivo .env, cuyo contenido es el siguiente:
 
-PORT=3000
-PERSONAL_ACCESS_TOKEN=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
+(Detallado en el README enviado en el correo)
 
 -Ejecutar el comando: node server.js
 
